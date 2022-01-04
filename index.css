@@ -1,0 +1,114 @@
+.top {
+  border: 3px solid red;
+  box-shadow: 5px solid blue;
+  background-color: seagreen;
+  width: 350px;
+  height: 100px;
+  padding-left: 170px;
+  padding-top: 10px;
+  border-radius: 10px;
+  font-size: 30px;
+  font-style: italic;
+  margin-left: 500px;
+}
+.top-left {
+  border: 3px solid red;
+  background-color: seagreen;
+  box-shadow: 5px solid blue;
+  height: 250px;
+  width: 300px;
+  margin-top: 50px;
+  border-radius: 10px;
+  font-size: 30px;
+  padding-top: 70px;
+  padding-left: 30px;
+}
+.top-right {
+  border: 3px solid red;
+  background-color: seagreen;
+  box-shadow: 5px solid blue;
+  height: 250px;
+  width: 300px;
+  margin-top: -320px;
+  margin-left: 1160px;
+  border-radius: 10px;
+  font-size: 30px;
+  padding-top: 70px;
+  padding-left: 30px;
+}
+.middle {
+  border: 3px solid red;
+  box-shadow: 5px solid blue;
+  background-color: seagreen;
+  width: 530px;
+  height: 100px;
+  padding-left: 10px;
+  padding-top: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-style: italic;
+  margin-left: 500px;
+  margin-bottom: 300;
+}
+.middle-span {
+  padding-left: 300px;
+  padding-bottom: 120px;
+  font-size: 30px;
+  margin-top: 60px;
+}
+.bottom-left {
+  border: 3px solid red;
+  background-color: seagreen;
+  box-shadow: 5px solid blue;
+  height: 250px;
+  width: 300px;
+  margin-top: 150px;
+  border-radius: 10px;
+  font-size: 30px;
+  padding-top: 70px;
+  padding-left: 30px;
+}
+.bottom-right {
+  border: 3px solid red;
+  background-color: seagreen;
+  box-shadow: 5px solid blue;
+  height: 320px;
+  width: 300px;
+  margin-top: -320px;
+  margin-left: 1160px;
+  border-radius: 10px;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-left: 30px;
+}
+.parent-box {
+  border: 8px solid palevioletred;
+  height: 700px;
+  width: 700px;
+  background-color: skyblue;
+  margin-top: 50px;
+  margin-left: 400px;
+}
+.box-heading {
+  font-size: 30px;
+  padding-left: 200px;
+}
+.child-left {
+  background-color: yellow;
+  height: 330px;
+  width: 330px;
+}
+.child-right {
+  background-color: yellow;
+  height: 330px;
+  width: 330px;
+  margin-left: 370px;
+  margin-top: -330px;
+}
+.child-down {
+  height: 305px;
+  width: 700px;
+  background-color: yellow;
+  margin-top: 10px;
+  mar
+}
